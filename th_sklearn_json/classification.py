@@ -8,8 +8,8 @@ from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier,
 from sklearn.naive_bayes import BernoulliNB, GaussianNB, MultinomialNB, ComplementNB
 from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import LabelBinarizer
-from sklearn_json import regression
-from sklearn_json import csr
+from th_sklearn_json import regression
+from th_sklearn_json import csr
 
 import json
 

@@ -1,5 +1,5 @@
-from sklearn_json import classification as clf
-from sklearn_json import regression as reg
+from th_sklearn_json import classification as clf
+from th_sklearn_json import regression as reg
 from sklearn import svm, discriminant_analysis, dummy
 from sklearn.linear_model import LogisticRegression, Perceptron
 from sklearn.tree import DecisionTreeClassifier, DecisionTreeRegressor

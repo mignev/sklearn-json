@@ -41,5 +41,6 @@ __pycache__/
 .idea
 build/
 dist/
-sklearn_json.egg-info/
+th_sklearn_json.egg-info/
 
+venv
